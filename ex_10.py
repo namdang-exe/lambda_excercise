@@ -1,0 +1,1 @@
+fibo = lambda x:x+x if x == 2 else fibo(x)
